@@ -17,7 +17,7 @@ spec:
       serviceAccountName: spaceman
       containers:
       - name: main
-        image: fassmus/spaceman-game:v1.0.0
+        image: tomcoolpxl/spaceman-game:v1.0.0
         ports:
         - containerPort: 80
           name: http
