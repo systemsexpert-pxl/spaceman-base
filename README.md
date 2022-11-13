@@ -1,0 +1,2 @@
+# spaceman-base
+kustomization example
